@@ -1,40 +1,42 @@
 # タカヒロ / Takahiro
 
-ガジェット・中古デバイス・夜景写真をテーマに、Webメディアを運営しています。
+東京都を拠点に活動するWebディレクター・フロントエンドエンジニア・フォトグラファー・ブロガーです。
 
-## ユーズドラボ / Used Lab
+Webデザイナーとしてキャリアをスタートし、フロントエンド開発やWebディレクションを経験。現在はIT企業でプロジェクトマネジメントに携わりながら、個人で3つのWebメディアを運営しています。
 
-**[ユーズドラボ — 中古デバイスの相場・スペック比較・機種診断](https://used-lab.jp/)**
+ガジェット、Apple製品、デスク環境づくり、夜景写真が好きです。サイトの企画・開発から記事執筆、写真・動画撮影まで取り組んでいます。
 
-中古のiPhone・Androidスマホ・iPad・Mac・Apple Watchなどについて、予算や用途に合う一台を選ぶための情報をまとめています。
-
-- 中古価格と価格推移の比較
-- 歴代モデルのスペック・性能比較
-- サポート期間と購入前の注意点
-- 予算や使い方に合わせた機種診断
-
-Visit **[Used Lab](https://used-lab.jp/)**, a Japanese guide to choosing used and previous-generation digital devices, with price trends, specification comparisons, and device selection tools.
-
-## 東京夜景ナビ / Tokyo Nightscape Guide
-
-**[東京夜景ナビ — 東京・横浜の夜景スポットガイド](https://nightscape.tokyo/)**
-
-実際に訪問・撮影した夜景スポットを、写真とともに紹介する専門メディアです。エリアや目的別に、デート・旅行・写真撮影に合う場所を探せます。
-
-- 定番から穴場までの夜景スポット紹介
-- 展望台・無料スポット・夜景が綺麗なホテルの案内
-- 夜景写真の撮影テクニックと撮影機材の紹介
-
-Explore **[Tokyo Nightscape Guide](https://nightscape.tokyo/)** for photographed night-view spots in Tokyo and Yokohama, observation decks, and photography tips.
+**[詳しいプロフィール・活動実績](https://digital-style.jp/about)**
 
 ## デジスタ / Digital Style
 
 **[デジスタ — ガジェットレビューブログ](https://digital-style.jp/)**
 
-実際に使ったガジェットや暮らしの道具を、使用感とともに紹介するブログです。Apple製品の周辺機器からデスク周り、スマート家電まで、買ってよかったものや選び方を発信しています。
+2015年12月に開設した個人メディア。ガジェットやApple製品の周辺機器、デスク周り、インテリア・生活雑貨などを紹介しています。
 
-- ガジェット・Apple製品関連のレビュー
-- デスク周りの便利グッズと作業環境の紹介
-- 生活家電・雑貨・バッグなどのレビュー
+記事執筆から写真・動画撮影まで一人で担当し、これまでに300以上の商品を紹介。「本当に使いたい商品のみを掲載する」「デメリットも正直に書く」を大切にしています。
 
-Read **[Digital Style](https://digital-style.jp/)** for Japanese gadget reviews, Apple accessories, desk setups, and everyday essentials.
+## 主な活動・実績
+
+- ITmedia「Fav-Log」、レバテック、男の隠れ家での連載
+- Ameba Choice、Picky’s、ライフハッカーでの記事監修
+- GoodsPressでのインタビュー掲載
+- バリューコマース メディアアワード2022年上期 総合賞3位・カテゴリー賞を受賞
+
+詳しい掲載歴・レビュー実績は、[デジスタの運営者情報](https://digital-style.jp/about)にまとめています。
+
+## ユーズドラボ / Used Lab
+
+**[ユーズドラボ — 中古デバイスの相場・スペック比較・機種診断](https://used-lab.jp/)**
+
+中古・型落ちのiPhone、Androidスマホ、iPad、Mac、Apple Watchなどの選び方を紹介するメディアです。エンジニアの知見を活かし、中古相場・価格推移の比較や、予算・用途に合わせた機種診断ツールを開発・実装しています。
+
+## 東京夜景ナビ / Tokyo Nightscape Guide
+
+**[東京夜景ナビ — 東京・横浜の夜景スポットガイド](https://nightscape.tokyo/)**
+
+自ら訪問・撮影した夜景スポットを写真とともに紹介する専門メディアです。定番から穴場まで、デート・旅行・写真撮影に合う場所を探せます。写真・映像の企業広告やテレビ番組への提供、撮影の仕事にも取り組んでいます。
+
+## お問い合わせ
+
+製品レビュー・記事執筆・撮影などのご相談は、[デジスタの運営者ページ](https://digital-style.jp/about)からお問い合わせください。
